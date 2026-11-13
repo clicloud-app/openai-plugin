@@ -1,0 +1,26 @@
+{
+  "name": "clicloud",
+  "displayName": "CLI",
+  "description": "Deploy and run apps, databases, static sites and functions on CLI (clicloud.app), with approvals and spending limits you set.",
+  "version": "0.1.0",
+  "author": {
+    "name": "CLI",
+    "email": "support@clicloud.app",
+    "url": "https://clicloud.app"
+  },
+  "homepage": "https://clicloud.app/docs/chatgpt",
+  "repository": "https://github.com/clicloud/claude-plugins",
+  "license": "ISC",
+  "documentationUrl": "https://clicloud.app/docs/chatgpt",
+  "supportUrl": "https://clicloud.app/support",
+  "privacyPolicyUrl": "https://clicloud.app/privacy",
+  "termsOfServiceUrl": "https://clicloud.app/terms",
+  "icon": "./.claude-plugin/icon.png",
+  "keywords": [
+    "deploy",
+    "hosting",
+    "paas",
+    "databases",
+    "devops"
+  ]
+}
