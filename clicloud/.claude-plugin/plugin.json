@@ -9,7 +9,7 @@
     "url": "https://clicloud.app"
   },
   "homepage": "https://clicloud.app/docs/chatgpt",
-  "repository": "https://github.com/clicloud/claude-plugins",
+  "repository": "https://github.com/clicloud-app/claude-plugins",
   "license": "ISC",
   "documentationUrl": "https://clicloud.app/docs/chatgpt",
   "supportUrl": "https://clicloud.app/support",

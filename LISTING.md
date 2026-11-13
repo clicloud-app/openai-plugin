@@ -31,7 +31,7 @@ CLI supports card, x402 and crypto payments in its own app. This plugin does not
 
 | # | Prompt | Tools | Expected |
 | --- | --- | --- | --- |
-| 1 | Deploy the fastapi folder of github.com/clicloud/starters to a new project | cli_create_project, cli_create_service (rootDir fastapi), cli_deploy | A live URL, or a still-running status with cli_deploy_status to check |
+| 1 | Deploy the fastapi folder of github.com/clicloud-app/starters to a new project | cli_create_project, cli_create_service (rootDir fastapi), cli_deploy | A live URL, or a still-running status with cli_deploy_status to check |
 | 2 | Add a Postgres database and connect it to my app | cli_create_database, cli_link_database, cli_deploy | DATABASE_URL is set on the app and it redeploys |
 | 3 | Why did my last deploy fail? | cli_deploy_status, cli_logs, cli_known_fixes | The error code, the telling log lines and the suggested fix |
 | 4 | Roll back the api service to the last healthy version | cli_rollback | Asks to confirm, then the previous version is live |
